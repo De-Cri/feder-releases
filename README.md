@@ -9,6 +9,3 @@ Installers for [Feder](https://github.com/De-Cri/feder), a private Discord for a
 
 Once installed, the app updates itself. The code and the issue tracker are in [De-Cri/feder](https://github.com/De-Cri/feder) (GPL-3.0).
 
----
-
-**Italiano** — Installer di Feder: scarica l'[ultima versione](https://github.com/De-Cri/feder-releases/releases/latest) (`-setup.exe` per Windows; `.AppImage`, `.deb` o `.rpm` per Linux). Una volta installata, l'app si aggiorna da sola. Il codice è su [De-Cri/feder](https://github.com/De-Cri/feder).
