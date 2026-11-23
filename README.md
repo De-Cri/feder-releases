@@ -2,7 +2,7 @@
 
 Installers for [Feder](https://github.com/De-Cri/feder), a private Discord for a small group of friends: chat, voice, video, screen sharing and end-to-end encrypted private messages.
 
-**[⬇ Latest version](https://github.com/De-Cri/feder-releases/releases/latest)**
+**[ Latest version](https://github.com/De-Cri/feder-releases/releases/latest)**
 
 - **Windows:** `Feder_x.y.z_x64-setup.exe`
 - **Linux:** `.AppImage` (any distro), `.deb` (Ubuntu/Debian) or `.rpm` (Fedora)
